@@ -1,0 +1,17 @@
+
+body{
+    background-color: aliceblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
